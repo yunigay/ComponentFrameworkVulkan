@@ -1,0 +1,25 @@
+﻿  Camera.cpp
+  This is wrong: Vec4 cross(const Vec4& a, const Vec4& b)
+  This questionable: Vec4 inverse(const Vec4& v)
+  Debug.cpp
+  OpenGLRenderer.cpp
+  SceneManager.cpp
+  This is wrong: Vec4 cross(const Vec4& a, const Vec4& b)
+  This questionable: Vec4 inverse(const Vec4& v)
+  Main.cpp
+  This is wrong: Vec4 cross(const Vec4& a, const Vec4& b)
+  This questionable: Vec4 inverse(const Vec4& v)
+  Scene0.cpp
+  This is wrong: Vec4 cross(const Vec4& a, const Vec4& b)
+  This questionable: Vec4 inverse(const Vec4& v)
+  Timer.cpp
+  VulkanRenderer.cpp
+  This is wrong: Vec4 cross(const Vec4& a, const Vec4& b)
+  This questionable: Vec4 inverse(const Vec4& v)
+C:\kitto\College\ComponentFramework24.0.4 Vulkan\ComponentFramework\tiny_obj_loader.h(1665,27): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'VulkanRenderer.cpp')
+  
+C:\kitto\College\ComponentFramework24.0.4 Vulkan\ComponentFramework\VulkanRenderer.cpp(497,35): warning C4244: 'argument': conversion from 'VkDeviceSize' to 'size_t', possible loss of data
+C:\kitto\College\ComponentFramework24.0.4 Vulkan\ComponentFramework\VulkanRenderer.cpp(520,34): warning C4244: 'argument': conversion from 'VkDeviceSize' to 'size_t', possible loss of data
+  Generating Code...
+  ComponentFramework.vcxproj -> C:\kitto\College\ComponentFramework24.0.4 Vulkan\Debug\ComponentFramework.exe
